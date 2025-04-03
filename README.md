@@ -11,8 +11,6 @@ While I fix my things in the code right now, here is the link to my itch.io page
 You can play the rough draft there
 
 ----------------------------------------------------------------------------------------------------
-![Alt text](https://img.itch.zone/aW1hZ2UvMzI2NTM0OC8xOTQ5Mjk4Mi5wbmc=/original/aw9hKU.png)
-----------------------------------------------------------------------------------------------------
 Typing Skill Game In Development 
 
 Small Description: Welcome to Night Of The Plague. You are Dude who is supporting NYC's most feared super villain, Vector. Vector's evil plans get delayed by beloved super hero Mr. FuzzyMan. Vector needs your help to make his evil plan a reality. Type the words on the fire balls Mr. FuzzyMan throws to help Vector!
