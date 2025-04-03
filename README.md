@@ -9,7 +9,7 @@ I'll document everything here.
 While I fix my things in the code right now, here is the link to my itch.io page: https://destinyro.itch.io
 You can play the rough draft there
 
-https://img.itch.zone/aW1hZ2UvMzI2NTM0OC8xOTQ5Mjk4Mi5wbmc=/original/aw9hKU.png
+![Alt text](https://img.itch.zone/aW1hZ2UvMzI2NTM0OC8xOTQ5Mjk4Mi5wbmc=/original/aw9hKU.png)
 
 ----------------------------------------------------------------------------------------------------
 Typing Skill Game In Development 
